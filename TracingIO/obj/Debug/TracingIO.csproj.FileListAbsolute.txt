@@ -1,0 +1,9 @@
+C:\git\lumberjack\TracingIO\bin\Debug\TracingIO.dll.config
+C:\git\lumberjack\TracingIO\bin\Debug\TracingIO.dll
+C:\git\lumberjack\TracingIO\bin\Debug\TracingIO.pdb
+C:\git\lumberjack\TracingIO\bin\Debug\Microsoft.CSharp.dll
+C:\git\lumberjack\TracingIO\bin\Debug\System.Configuration.dll
+C:\git\lumberjack\TracingIO\bin\Debug\System.Web.dll
+C:\git\lumberjack\TracingIO\obj\Debug\TracingIO.csprojResolveAssemblyReference.cache
+C:\git\lumberjack\TracingIO\obj\Debug\TracingIO.dll
+C:\git\lumberjack\TracingIO\obj\Debug\TracingIO.pdb

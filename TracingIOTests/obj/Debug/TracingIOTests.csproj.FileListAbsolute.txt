@@ -1,0 +1,6 @@
+C:\git\lumberjack\TracingIOTests\bin\Debug\TracingIOTests.exe.config
+C:\git\lumberjack\TracingIOTests\bin\Debug\TracingIOTests.exe
+C:\git\lumberjack\TracingIOTests\bin\Debug\TracingIOTests.pdb
+C:\git\lumberjack\TracingIOTests\obj\Debug\TracingIOTests.csprojResolveAssemblyReference.cache
+C:\git\lumberjack\TracingIOTests\obj\Debug\TracingIOTests.exe
+C:\git\lumberjack\TracingIOTests\obj\Debug\TracingIOTests.pdb
