@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TracingIO", "TracingIO/TracingIO.csproj", "{011CEB4E-D7E8-4035-A806-2854E7936C10}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lumberjack", "TracingIO\Lumberjack.csproj", "{011CEB4E-D7E8-4035-A806-2854E7936C10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TracingIOTests", "TracingIOTests/TracingIOTests.csproj", "{7581E2FD-48A0-415C-A6F8-980BF5498720}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TracingIOTests", "TracingIOTests\TracingIOTests.csproj", "{7581E2FD-48A0-415C-A6F8-980BF5498720}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,13 +1,13 @@
-﻿using TracingIO.Objects.Enum;
+﻿using Lumberjack.Objects.Enum;
 using System;
 using System.Data.SqlClient;
 using System.IO;
 using System.Text;
 using System.Web;
 
-namespace TracingIO
+namespace Lumberjack
 {
-    public static class Tracing
+    public static class TracingIO
     {
         private static object _writeLockObj = new object();
 

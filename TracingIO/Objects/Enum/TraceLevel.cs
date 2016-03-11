@@ -1,4 +1,4 @@
-﻿namespace TracingIO.Objects.Enum
+﻿namespace Lumberjack.Objects.Enum
 {
     public enum TraceLevel
     {

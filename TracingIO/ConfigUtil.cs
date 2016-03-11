@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Configuration;
-using TracingIO.Objects.Enum;
+using Lumberjack.Objects.Enum;
 
-namespace TracingIO
+namespace Lumberjack
 {
     public static class ConfigUtil
     {
