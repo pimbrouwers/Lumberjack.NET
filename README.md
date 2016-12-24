@@ -1,2 +1,2 @@
 # lumberjack
-A simple, production-ready, file-backed tracing library for .NET Projects
+A simple, asynchronous, production-ready, file-backed tracing library for .NET Core Projects
