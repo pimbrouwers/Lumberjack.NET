@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net45": {
+      "wrappedProject": "../../TracingIO/Lumberjack.csproj",
+      "bin": {
+        "assembly": "../../TracingIO/obj/{configuration}/Lumberjack.dll",
+        "pdb": "../../TracingIO/obj/{configuration}/Lumberjack.pdb"
+      }
+    },
+    "net451": {
+      "wrappedProject": "../../TracingIO/Lumberjack.csproj",
+      "bin": {
+        "assembly": "../../TracingIO/obj/{configuration}/Lumberjack.dll",
+        "pdb": "../../TracingIO/obj/{configuration}/Lumberjack.pdb"
+      }
+    }
+  }
+}

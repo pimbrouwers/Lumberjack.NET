@@ -1,8 +1,0 @@
-C:\www13\Cineplex API\CineplexAPITracing\bin\Debug\CineplexAPITracing.dll.config
-C:\www13\Cineplex API\CineplexAPITracing\bin\Debug\CineplexAPITracing.dll
-C:\www13\Cineplex API\CineplexAPITracing\bin\Debug\CineplexAPITracing.pdb
-C:\www13\Cineplex API\CineplexAPITracing\bin\Debug\System.Configuration.dll
-C:\www13\Cineplex API\CineplexAPITracing\bin\Debug\System.Web.dll
-C:\www13\Cineplex API\CineplexAPITracing\obj\Debug\CineplexAPITracing.csprojResolveAssemblyReference.cache
-C:\www13\Cineplex API\CineplexAPITracing\obj\Debug\CineplexAPITracing.dll
-C:\www13\Cineplex API\CineplexAPITracing\obj\Debug\CineplexAPITracing.pdb
